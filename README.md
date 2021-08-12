@@ -1,0 +1,2 @@
+# Operating-Systems
+One of the operating system functions is to manage the programs.  Most operating systems now are multitasking, meaning you can have multiple programs running at once. An example would be that you could have multiple web browsers open while using word documents.  When you running multiple programs one will be the foreground while the others will be in the background.  Foreground is the active program youre currently using.
